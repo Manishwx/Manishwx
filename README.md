@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Manishwx
+- A Mechanical Engineer learning to code
